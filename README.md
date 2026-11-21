@@ -29,6 +29,10 @@ To set it up, connect both devices to the same local network. In AirmaiDX, open 
 
 Requires iOS 17 or later and AirmaiDX 0.2.13 or later. NFC scanning requires a compatible iPhone and card.
 
+## Android (experimental)
+
+No native port. See [android/winlator](android/winlator/README.md) for running the Windows package in Winlator.
+
 ## Development
 
 See [Architecture](docs/ARCHITECTURE.md), [Build and test](docs/BUILDING.md), and [Third-party notices](docs/THIRD_PARTY_NOTICES.md).
